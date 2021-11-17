@@ -7,10 +7,10 @@ void main() {
   var num1=int.parse(a);
 
   if(num1%2==0) {
-    stdout.write("$num1 Is Even,The number is between 100");
+    stdout.write("$num1 Is Even");
   }
    else
-    print("$num1 Is Odd,The number is between 100");
+    print("$num1 Is Odd");
 
 
 }
